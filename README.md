@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Arya</h1>
-<h3 align="center">A Final Year, Master of Computer Applications (M.C.A.) Student from MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY ALLAHABAD</h3>
+<h3 align="center">A Final Year, M.C.A. Student from MNNIT ALLAHABAD</h3>
 
 - 🌱 I’m currently learning **Fullstack Development**
 
