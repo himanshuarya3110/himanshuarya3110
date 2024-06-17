@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Arya</h1>
 <h3 align="center">A Final Year, M.C.A. Student from MNNIT ALLAHABAD</h3>
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 👀 I’m interested in learning **FrontEnd an BackEnd Technologies** 
+- 🌱 I’m currently learning **REACT**
+- 📫 How to reach me : himanshuarya3110@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
