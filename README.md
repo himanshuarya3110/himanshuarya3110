@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Arya</h1>
-<h3 align="center">A Final Year, M.C.A. Student from MNNIT ALLAHABAD</h3>
+<h3 align="center">A final year, M.C.A. student from MNNIT ALLAHABAD</h3>
 
 - 👀 I’m interested in learning **FrontEnd an BackEnd Technologies** 
 - 🌱 I’m currently learning **REACT**
