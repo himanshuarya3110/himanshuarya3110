@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Arya</h1>
 <h3 align="center">A final year, M.C.A. student from MNNIT ALLAHABAD</h3>
-# 💫 About Me:
+💫 About Me:
 👀 I’m interested in learning Front-End an Back-End Technologies<br>🌱 I’m currently learning MERN Stack Development<br>📫 How to reach me : himanshuarya3110@gmail.com
 
 
